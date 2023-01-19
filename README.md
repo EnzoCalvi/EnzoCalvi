@@ -10,5 +10,5 @@ crítico, resolución de problemas, trabajo en equipo, comunicación y autonomí
 
 <h3 align="left">Contactame:</h3>
 
-- 📫  [**Email**](enzocalvi243@gmail.com)
-- 🔗  **enzocalvi243@gmail.com**
+- 🔗  [**LinkedIn**](https://www.linkedin.com/in/enzo-calvi-564388213/)
+- 📫  [**enzocalvi243@gmail.com**](enzocalvi243@gmail.com)
