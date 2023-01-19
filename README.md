@@ -1,8 +1,7 @@
 <h1 align="center">Hola 👋, Soy Enzo Calvi</h1>
 <h3 align="center">Un apasionado FullStack Web Developer de Argentina</h3>
 
-<p align="center">Formación como Diseñador Web. Experiencia trabajando en NodeJS, React,
-Redux, SQL entre otras tecnologías del sector. Trabajé como voluntario en la creación de un panel administrador para
+<p align="center">Trabajé como voluntario en la creación de un panel administrador para
 una ONG de ayuda a mascotas que les ayudó a mejorar el flujo de información dentro del refugio. Con pensamiento
 crítico, resolución de problemas, trabajo en equipo, comunicación y autonomía.</p>
 
