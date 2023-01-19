@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Enzo Calvi</h1>
-<h3 align="center">Apasionado FullStack web developer de Argentina</h3>
+<h3 align="center">Un apasionado FullStack Web Developer de Argentina</h3>
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
